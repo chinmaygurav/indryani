@@ -40,6 +40,9 @@
 .heading-logo{
     border-bottom: 1px solid cornflowerblue;
 }
+.top-telephone i{
+text-decoration:none;
+}
 .faculty .btn1{
     display: block;
     text-align: center;
